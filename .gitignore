@@ -1,0 +1,15 @@
+# Security / Environment Variables
+.env
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDEs / Mac system files
+.vscode/
+.DS_Store
